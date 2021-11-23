@@ -1,0 +1,75 @@
+.container
+{
+    text-align: center;
+}
+#img1{
+  width: 100px;
+    height:100px ;
+}
+.img2{
+    width: 250px;
+    height: 200px;
+}
+.thumb{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+
+.modal-body
+{
+    text-align: center
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+#myCarousel
+{
+    background-color: firebrick;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+    margin-left: 50px;
+width:300px;
+    margin-bottom: 35px;
+       }
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
+
+marquee img{
+    width="100px;" height="100" ;
+    border-radius: 50%;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+}
+.menu1{
+    font-family: 'Dancing Script', cursive;
+}
